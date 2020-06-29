@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="37cc5420-9637-43c2-ae32-f747256201d8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cyKs4ePp0ojzaaFm1qMZjWWC5n" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager" selected="JUnit.MyProducer.testAsyncSend">
+    <configuration name="MyConsumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Kotori.kafka.MyConsumer" />
+      <module name="Kafka-Demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Kotori.kafka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyProducer.testAsyncSend" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Kafka-Demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Kotori.kafka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.Kotori.kafka" />
+      <option name="MAIN_CLASS_NAME" value="com.Kotori.kafka.MyProducer" />
+      <option name="METHOD_NAME" value="testAsyncSend" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyProducer.testSyncSend" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Kafka-Demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Kotori.kafka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.Kotori.kafka" />
+      <option name="MAIN_CLASS_NAME" value="com.Kotori.kafka.MyProducer" />
+      <option name="METHOD_NAME" value="testSyncSend" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MyProducer.testAsyncSend" />
+        <item itemvalue="Application.MyConsumer" />
+        <item itemvalue="JUnit.MyProducer.testSyncSend" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="37cc5420-9637-43c2-ae32-f747256201d8" name="Default Changelist" comment="" />
+      <created>1591495596238</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591495596238</updated>
+      <workItem from="1591495600096" duration="303000" />
+      <workItem from="1591495916598" duration="7575000" />
+      <workItem from="1592220454010" duration="769000" />
+      <workItem from="1592476794923" duration="325000" />
+      <workItem from="1592477153984" duration="502000" />
+      <workItem from="1593427968166" duration="439000" />
+      <workItem from="1593431351135" duration="2349000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592220569813">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592220569813" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1592477166391">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1592477166391" />
+    <state width="1877" height="203" key="GridCell.Tab.0.bottom" timestamp="1591517316541">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="203" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591517316541" />
+    <state width="1877" height="203" key="GridCell.Tab.0.center" timestamp="1591517316540">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="203" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591517316540" />
+    <state width="1877" height="203" key="GridCell.Tab.0.left" timestamp="1591517316540">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="203" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591517316540" />
+    <state width="1877" height="203" key="GridCell.Tab.0.right" timestamp="1591517316540">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="203" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591517316540" />
+    <state x="440" y="94" key="SettingsEditor" timestamp="1592220592916">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1592220592916" />
+    <state x="334" y="214" key="new project wizard" timestamp="1592476979218">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="334" y="214" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1592476979218" />
+  </component>
+</project>
